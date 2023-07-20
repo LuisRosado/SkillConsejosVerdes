@@ -1,0 +1,67 @@
+{
+  "interactionModel": {
+    "languageModel": {
+      "invocationName": "consejos verdes",
+      "intents": [
+        {
+          "name": "AMAZON.CancelIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.HelpIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.StopIntent",
+          "samples": []
+        },
+        {
+          "name": "DesechosIntent",
+          "slots": [],
+          "samples": [
+            "Sobre Desechos",
+            "Desechos"
+          ]
+        },
+        {
+          "name": "AMAZON.NavigateHomeIntent",
+          "samples": []
+        },
+        {
+          "name": "ComprasIntent",
+          "slots": [],
+          "samples": [
+            "Sobre compras",
+            "Compras"
+          ]
+        },
+        {
+          "name": "ElectronicaIntent",
+          "slots": [],
+          "samples": [
+            "Sobre electronica",
+            "Electronica"
+          ]
+        },
+        {
+          "name": "ModaIntent",
+          "slots": [],
+          "samples": [
+            "Sobre moda",
+            "Moda"
+          ]
+        },
+        {
+          "name": "TransporteIntent",
+          "slots": [],
+          "samples": [
+            "Sobre transporte",
+            "Transporte"
+          ]
+        }
+      ],
+      "types": []
+    }
+  },
+  "version": "3"
+}
